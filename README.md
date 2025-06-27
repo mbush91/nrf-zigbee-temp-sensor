@@ -1,0 +1,1 @@
+# nrf-zigbee-temp-sensor
